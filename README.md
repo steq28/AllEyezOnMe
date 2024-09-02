@@ -1,3 +1,5 @@
+![Untitled-1](https://github.com/user-attachments/assets/343b0635-b1bd-4280-a782-fd7b8a8c0eb0)
+
 # AllEyezOnMe
 
 AllEyezOnMe is a machine learning project focused on recognizing sign language, specifically the American Sign Language (ASL) alphabet and numbers, through image processing. The project uses a Random Forest classifier and MediaPipe for hand landmark detection, allowing for real-time recognition of ASL gestures using a webcam.
